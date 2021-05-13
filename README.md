@@ -5,8 +5,9 @@
 - [NoneBot v1](https://github.com/nonebot/nonebot)
 - [NoneBot v2](https://github.com/nonebot/nonebot2)
 
-## 官方文档
+## 官方网站
 
+- [NoneBot 官网](https://nonebot.dev/)
 - [NoneBot v1 文档](https://docs.nonebot.dev/)
 - [NoneBot v2 文档](https://v2.nonebot.dev/)
 
