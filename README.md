@@ -16,7 +16,7 @@
 
 ## 应用案例
 
-- [Ice-Cirno/HoshinoBot](https://github.com/Ice-Cirno/HoshinoBot)
-- [XiaoMiku01/PaimonBot](https://github.com/XiaoMiku01/PaimonBot)
-- [SK-415/HarukaBot](https://github.com/SK-415/HarukaBot)
-- [cscs181/QQ-GitHub-Bot](https://github.com/cscs181/QQ-GitHub-Bot)
+- [Ice-Cirno/HoshinoBot](https://github.com/Ice-Cirno/HoshinoBot): A qqbot for Princess Connect Re:Dive (and other usage :)
+- [XiaoMiku01/PaimonBot](https://github.com/XiaoMiku01/PaimonBot): 原神 QQ 群聊机器人
+- [SK-415/HarukaBot](https://github.com/SK-415/HarukaBot): 将 B站 UP 主的动态和直播信息推送至 QQ
+- [cscs181/QQ-GitHub-Bot](https://github.com/cscs181/QQ-GitHub-Bot): GitHub Bot for QQ
