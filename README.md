@@ -17,3 +17,4 @@
 ## 应用案例
 
 - [Ice-Cirno/HoshinoBot](https://github.com/Ice-Cirno/HoshinoBot)
+- [XiaoMiku01/PaimonBot](https://github.com/XiaoMiku01/PaimonBot)
