@@ -18,3 +18,4 @@
 
 - [Ice-Cirno/HoshinoBot](https://github.com/Ice-Cirno/HoshinoBot)
 - [XiaoMiku01/PaimonBot](https://github.com/XiaoMiku01/PaimonBot)
+- [SK-415/HarukaBot](https://github.com/SK-415/HarukaBot)
