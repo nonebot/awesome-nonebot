@@ -21,5 +21,5 @@
 - [XiaoMiku01/PaimonBot](https://github.com/XiaoMiku01/PaimonBot): 原神 QQ 群聊机器人
 - [SK-415/HarukaBot](https://github.com/SK-415/HarukaBot): 将 B站 UP 主的动态和直播信息推送至 QQ
 - [cscs181/QQ-GitHub-Bot](https://github.com/cscs181/QQ-GitHub-Bot): GitHub Bot for QQ
-- [Quan666/ELF_RSS](https://github.com/Quan666/ELF_RSS): RSS订阅 插件，可以个性化订阅
-- [Quan666/ELFChatBot](https://github.com/Quan666/ELFChatBot): 闲聊QQ机器人，也就是人工智障
+- [Quan666/ELF_RSS](https://github.com/Quan666/ELF_RSS): RSS 订阅插件，可以个性化订阅
+- [Quan666/ELFChatBot](https://github.com/Quan666/ELFChatBot): 闲聊 QQ 机器人，也就是人工智障
