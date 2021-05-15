@@ -14,6 +14,8 @@
 ## 教程
 
 - [使用 nonebot 搭建 qq 群聊机器人](https://zhuanlan.zhihu.com/p/340849952)
+- [基于 nonebot2 的 QQ 机器人的制作](https://www.bilibili.com/video/BV1JK4y1D7kX)
+- [Python 和 QQ 机器人开发基础培训](https://www.bilibili.com/video/BV19t411679V)（部分内容可能过时，需参考最新文档使用）
 
 ## 应用案例
 
