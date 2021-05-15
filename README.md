@@ -23,3 +23,4 @@
 - [cscs181/QQ-GitHub-Bot](https://github.com/cscs181/QQ-GitHub-Bot): GitHub Bot for QQ
 - [Quan666/ELF_RSS](https://github.com/Quan666/ELF_RSS): RSS 订阅插件，可以个性化订阅
 - [Quan666/ELFChatBot](https://github.com/Quan666/ELFChatBot): 闲聊 QQ 机器人，也就是人工智障
+- [Kyomotoi/ATRI](https://github.com/Kyomotoi/ATRI): ~~高性能~~萝卜子，齐聚各类小功能
