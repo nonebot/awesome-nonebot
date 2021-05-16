@@ -27,3 +27,4 @@
 - [Quan666/ELFChatBot](https://github.com/Quan666/ELFChatBot): 闲聊 QQ 机器人，也就是人工智障
 - [Kyomotoi/ATRI](https://github.com/Kyomotoi/ATRI): ~~高性能~~萝卜子，齐聚各类小功能
 - [Ailitonia/omega-miya](https://github.com/Ailitonia/omega-miya): ~~主要是~~B站推送机器人，集成了一堆~~没用的~~功能
+- [Watanabe-Asa/SalmonBot](https://github.com/Watanabe-Asa/SalmonBot): Hoshinobot based on nonebot2
