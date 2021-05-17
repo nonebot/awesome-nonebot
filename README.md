@@ -28,3 +28,4 @@
 - [Kyomotoi/ATRI](https://github.com/Kyomotoi/ATRI): ~~高性能~~萝卜子，齐聚各类小功能
 - [Ailitonia/omega-miya](https://github.com/Ailitonia/omega-miya): ~~主要是~~B站推送机器人，集成了一堆~~没用的~~功能
 - [Watanabe-Asa/SalmonBot](https://github.com/Watanabe-Asa/SalmonBot): Hoshinobot based on nonebot2
+- [Melodyknit/YanXiBot](https://github.com/Melodyknit/YanXiBot): 为 AMV/MAD 创作者而制作的动漫资源查找机器人，且集成一些娱乐性功能
