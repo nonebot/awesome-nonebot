@@ -30,3 +30,4 @@
 - [Watanabe-Asa/SalmonBot](https://github.com/Watanabe-Asa/SalmonBot): Hoshinobot based on nonebot2
 - [Melodyknit/YanXiBot](https://github.com/Melodyknit/YanXiBot): 为 AMV/MAD 创作者而制作的动漫资源查找机器人，且集成一些娱乐性功能
 - [HibiKier/zhenxun_bot ](https://github.com/HibiKier/zhenxun_bot): 可爱的绪山真寻 bot，实现了一些基础的功能和一些娱乐功能
+- [MeetWq/mybot](https://github.com/MeetWq/mybot): 机器人小Q，实现了一些乱七八糟的功能
