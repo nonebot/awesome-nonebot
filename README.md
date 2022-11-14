@@ -36,3 +36,4 @@
 ## 辅助工具
 
 - [NCBM/nonediag](https://github.com/NCBM/nonediag): NoneBot2 常见问题诊断工具，支持通过项目文件及日志分析错误
+- [NCBM/nonestrap](https://github.com/NCBM/nonestrap): 轻量化、脚本式的 NoneBot2 项目创建工具
