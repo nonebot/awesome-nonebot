@@ -7,9 +7,8 @@
 
 ## 官方网站
 
-- [NoneBot 官网](https://nonebot.dev/)
-- [NoneBot v1 文档](https://docs.nonebot.dev/)
-- [NoneBot v2 文档](https://v2.nonebot.dev/)
+- [NoneBot v1 文档](https://v1.nonebot.dev/)
+- [NoneBot v2 文档](https://nonebot.dev/)
 
 ## 教程
 
